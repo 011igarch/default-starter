@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+.u-center-text {
+  text-align: center;
+}
+
+.u-mb-2 {
+  margin-bottom: 2rem;
+}
+
+.u-mb-6 {
+  margin-bottom: 6rem;
+}
+
+.u-mb-8 {
+  margin-bottom: 8rem;
+}
+
+mark {
+  background-color: var(--color-primary);
+  padding: .5rem 1rem;
+  
+}
+
